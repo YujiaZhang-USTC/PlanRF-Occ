@@ -1,0 +1,171 @@
+2025-10-31 16:07:01,187 - mmdet3d - INFO - Average time: 0.04s
+100%|███████████████████████████████████████| 4519/4519 [00:59<00:00, 75.65it/s]
+evaluating time 0s ----------------------
+2025-10-31 16:08:00,928 - mmdet3d - INFO - ===> per class IoU of 4519 samples:
+2025-10-31 16:08:00,928 - mmdet3d - INFO - ===> others - IoU = 73.74
+2025-10-31 16:08:00,928 - mmdet3d - INFO - ===> barrier - IoU = 93.72
+2025-10-31 16:08:00,929 - mmdet3d - INFO - ===> bicycle - IoU = 95.29
+2025-10-31 16:08:00,929 - mmdet3d - INFO - ===> bus - IoU = 82.48
+2025-10-31 16:08:00,929 - mmdet3d - INFO - ===> car - IoU = 81.91
+2025-10-31 16:08:00,929 - mmdet3d - INFO - ===> construction_vehicle - IoU = 68.95
+2025-10-31 16:08:00,929 - mmdet3d - INFO - ===> motorcycle - IoU = 95.67
+2025-10-31 16:08:00,929 - mmdet3d - INFO - ===> pedestrian - IoU = 93.56
+2025-10-31 16:08:00,929 - mmdet3d - INFO - ===> traffic_cone - IoU = 95.08
+2025-10-31 16:08:00,929 - mmdet3d - INFO - ===> trailer - IoU = 75.15
+2025-10-31 16:08:00,929 - mmdet3d - INFO - ===> truck - IoU = 79.39
+2025-10-31 16:08:00,929 - mmdet3d - INFO - ===> driveable_surface - IoU = 85.91
+2025-10-31 16:08:00,929 - mmdet3d - INFO - ===> other_flat - IoU = 94.35
+2025-10-31 16:08:00,929 - mmdet3d - INFO - ===> sidewalk - IoU = 78.84
+2025-10-31 16:08:00,929 - mmdet3d - INFO - ===> terrain - IoU = 76.82
+2025-10-31 16:08:00,929 - mmdet3d - INFO - ===> manmade - IoU = 59.81
+2025-10-31 16:08:00,929 - mmdet3d - INFO - ===> vegetation - IoU = 50.03
+2025-10-31 16:08:00,929 - mmdet3d - INFO - ===> empty - IoU = 97.99
+2025-10-31 16:08:00,929 - mmdet3d - INFO - ===> mIoU of 4519 samples: 81.22
+2025-10-31 16:08:00,930 - mmdet3d - INFO - ===> empty - IoU = 97.99
+2025-10-31 16:08:00,930 - mmdet3d - INFO - ===> non-empty - IoU = 68.3
+100%|███████████████████████████████████████| 4519/4519 [02:56<00:00, 25.56it/s]
+2025-10-31 16:10:57,717 - mmdet3d - INFO - ===> per class IoU of 4519 samples:
+2025-10-31 16:10:57,717 - mmdet3d - INFO - ===> others - IoU = 49.82
+2025-10-31 16:10:57,717 - mmdet3d - INFO - ===> barrier - IoU = 59.95
+2025-10-31 16:10:57,717 - mmdet3d - INFO - ===> bicycle - IoU = 37.2
+2025-10-31 16:10:57,717 - mmdet3d - INFO - ===> bus - IoU = 49.03
+2025-10-31 16:10:57,717 - mmdet3d - INFO - ===> car - IoU = 47.68
+2025-10-31 16:10:57,717 - mmdet3d - INFO - ===> construction_vehicle - IoU = 47.02
+2025-10-31 16:10:57,718 - mmdet3d - INFO - ===> motorcycle - IoU = 35.22
+2025-10-31 16:10:57,718 - mmdet3d - INFO - ===> pedestrian - IoU = 29.96
+2025-10-31 16:10:57,718 - mmdet3d - INFO - ===> traffic_cone - IoU = 41.37
+2025-10-31 16:10:57,718 - mmdet3d - INFO - ===> trailer - IoU = 47.83
+2025-10-31 16:10:57,718 - mmdet3d - INFO - ===> truck - IoU = 52.12
+2025-10-31 16:10:57,718 - mmdet3d - INFO - ===> driveable_surface - IoU = 67.68
+2025-10-31 16:10:57,718 - mmdet3d - INFO - ===> other_flat - IoU = 57.83
+2025-10-31 16:10:57,718 - mmdet3d - INFO - ===> sidewalk - IoU = 56.08
+2025-10-31 16:10:57,718 - mmdet3d - INFO - ===> terrain - IoU = 55.05
+2025-10-31 16:10:57,718 - mmdet3d - INFO - ===> manmade - IoU = 47.71
+2025-10-31 16:10:57,718 - mmdet3d - INFO - ===> vegetation - IoU = 43.98
+2025-10-31 16:10:57,718 - mmdet3d - INFO - ===> empty - IoU = 96.99
+2025-10-31 16:10:57,718 - mmdet3d - INFO - ===> mIoU of 4519 samples: 48.56
+evaluating time 1.0s ----------------------
+2025-10-31 16:10:57,719 - mmdet3d - INFO - ===> empty - IoU = 96.99
+2025-10-31 16:10:57,719 - mmdet3d - INFO - ===> non-empty - IoU = 55.13
+2025-10-31 16:10:57,719 - mmdet3d - INFO - ===> per class IoU of 4519 samples:
+2025-10-31 16:10:57,719 - mmdet3d - INFO - ===> others - IoU = 42.71
+2025-10-31 16:10:57,719 - mmdet3d - INFO - ===> barrier - IoU = 50.86
+2025-10-31 16:10:57,719 - mmdet3d - INFO - ===> bicycle - IoU = 26.99
+2025-10-31 16:10:57,719 - mmdet3d - INFO - ===> bus - IoU = 33.57
+2025-10-31 16:10:57,719 - mmdet3d - INFO - ===> car - IoU = 34.83
+2025-10-31 16:10:57,719 - mmdet3d - INFO - ===> construction_vehicle - IoU = 38.94
+2025-10-31 16:10:57,719 - mmdet3d - INFO - ===> motorcycle - IoU = 22.92
+2025-10-31 16:10:57,719 - mmdet3d - INFO - ===> pedestrian - IoU = 16.84
+2025-10-31 16:10:57,719 - mmdet3d - INFO - ===> traffic_cone - IoU = 31.45
+2025-10-31 16:10:57,719 - mmdet3d - INFO - ===> trailer - IoU = 37.49
+2025-10-31 16:10:57,719 - mmdet3d - INFO - ===> truck - IoU = 39.71
+2025-10-31 16:10:57,719 - mmdet3d - INFO - ===> driveable_surface - IoU = 63.04
+2025-10-31 16:10:57,719 - mmdet3d - INFO - ===> other_flat - IoU = 52.16
+2025-10-31 16:10:57,719 - mmdet3d - INFO - ===> sidewalk - IoU = 50.59
+2025-10-31 16:10:57,720 - mmdet3d - INFO - ===> terrain - IoU = 49.21
+2025-10-31 16:10:57,720 - mmdet3d - INFO - ===> manmade - IoU = 42.76
+2025-10-31 16:10:57,720 - mmdet3d - INFO - ===> vegetation - IoU = 40.21
+2025-10-31 16:10:57,720 - mmdet3d - INFO - ===> empty - IoU = 96.66
+2025-10-31 16:10:57,720 - mmdet3d - INFO - ===> mIoU of 4519 samples: 39.66
+evaluating time 2.0s ----------------------
+2025-10-31 16:10:57,720 - mmdet3d - INFO - ===> empty - IoU = 96.66
+2025-10-31 16:10:57,720 - mmdet3d - INFO - ===> non-empty - IoU = 50.4
+2025-10-31 16:10:57,721 - mmdet3d - INFO - ===> per class IoU of 4519 samples:
+2025-10-31 16:10:57,721 - mmdet3d - INFO - ===> others - IoU = 37.48
+2025-10-31 16:10:57,721 - mmdet3d - INFO - ===> barrier - IoU = 44.05
+2025-10-31 16:10:57,721 - mmdet3d - INFO - ===> bicycle - IoU = 20.85
+2025-10-31 16:10:57,721 - mmdet3d - INFO - ===> bus - IoU = 24.71
+2025-10-31 16:10:57,721 - mmdet3d - INFO - ===> car - IoU = 28.23
+2025-10-31 16:10:57,721 - mmdet3d - INFO - ===> construction_vehicle - IoU = 32.97
+2025-10-31 16:10:57,721 - mmdet3d - INFO - ===> motorcycle - IoU = 18.22
+2025-10-31 16:10:57,721 - mmdet3d - INFO - ===> pedestrian - IoU = 10.87
+2025-10-31 16:10:57,721 - mmdet3d - INFO - ===> traffic_cone - IoU = 24.96
+2025-10-31 16:10:57,721 - mmdet3d - INFO - ===> trailer - IoU = 31.16
+2025-10-31 16:10:57,721 - mmdet3d - INFO - ===> truck - IoU = 32.23
+2025-10-31 16:10:57,721 - mmdet3d - INFO - ===> driveable_surface - IoU = 59.45
+2025-10-31 16:10:57,721 - mmdet3d - INFO - ===> other_flat - IoU = 47.94
+2025-10-31 16:10:57,721 - mmdet3d - INFO - ===> sidewalk - IoU = 46.3
+2025-10-31 16:10:57,721 - mmdet3d - INFO - ===> terrain - IoU = 44.65
+2025-10-31 16:10:57,721 - mmdet3d - INFO - ===> manmade - IoU = 38.7
+2025-10-31 16:10:57,721 - mmdet3d - INFO - ===> vegetation - IoU = 36.84
+2025-10-31 16:10:57,721 - mmdet3d - INFO - ===> empty - IoU = 96.44
+2025-10-31 16:10:57,721 - mmdet3d - INFO - ===> mIoU of 4519 samples: 34.09
+evaluating time 3.0s ----------------------
+2025-10-31 16:10:57,722 - mmdet3d - INFO - ===> empty - IoU = 96.44
+2025-10-31 16:10:57,722 - mmdet3d - INFO - ===> non-empty - IoU = 46.67
+2025-10-31 16:10:57,722 - mmdet3d - INFO - ===> per class IoU of 4519 samples:
+2025-10-31 16:10:57,722 - mmdet3d - INFO - ===> others - IoU = 49.82
+2025-10-31 16:10:57,722 - mmdet3d - INFO - ===> barrier - IoU = 59.95
+2025-10-31 16:10:57,722 - mmdet3d - INFO - ===> bicycle - IoU = 37.2
+2025-10-31 16:10:57,722 - mmdet3d - INFO - ===> bus - IoU = 49.03
+2025-10-31 16:10:57,722 - mmdet3d - INFO - ===> car - IoU = 47.68
+2025-10-31 16:10:57,722 - mmdet3d - INFO - ===> construction_vehicle - IoU = 47.02
+2025-10-31 16:10:57,722 - mmdet3d - INFO - ===> motorcycle - IoU = 35.22
+2025-10-31 16:10:57,722 - mmdet3d - INFO - ===> pedestrian - IoU = 29.96
+2025-10-31 16:10:57,722 - mmdet3d - INFO - ===> traffic_cone - IoU = 41.37
+2025-10-31 16:10:57,722 - mmdet3d - INFO - ===> trailer - IoU = 47.83
+2025-10-31 16:10:57,722 - mmdet3d - INFO - ===> truck - IoU = 52.12
+2025-10-31 16:10:57,723 - mmdet3d - INFO - ===> driveable_surface - IoU = 67.68
+2025-10-31 16:10:57,723 - mmdet3d - INFO - ===> other_flat - IoU = 57.83
+2025-10-31 16:10:57,723 - mmdet3d - INFO - ===> sidewalk - IoU = 56.08
+2025-10-31 16:10:57,723 - mmdet3d - INFO - ===> terrain - IoU = 55.05
+2025-10-31 16:10:57,723 - mmdet3d - INFO - ===> manmade - IoU = 47.71
+2025-10-31 16:10:57,723 - mmdet3d - INFO - ===> vegetation - IoU = 43.98
+2025-10-31 16:10:57,723 - mmdet3d - INFO - ===> empty - IoU = 96.99
+2025-10-31 16:10:57,723 - mmdet3d - INFO - ===> mIoU of 4519 samples: 48.56
+2025-10-31 16:10:57,723 - mmdet3d - INFO - ===> empty - IoU = 96.99
+2025-10-31 16:10:57,723 - mmdet3d - INFO - ===> non-empty - IoU = 55.13
+2025-10-31 16:10:57,724 - mmdet3d - INFO - ===> per class IoU of 4519 samples:
+2025-10-31 16:10:57,724 - mmdet3d - INFO - ===> others - IoU = 42.71
+2025-10-31 16:10:57,724 - mmdet3d - INFO - ===> barrier - IoU = 50.86
+2025-10-31 16:10:57,724 - mmdet3d - INFO - ===> bicycle - IoU = 26.99
+2025-10-31 16:10:57,724 - mmdet3d - INFO - ===> bus - IoU = 33.57
+2025-10-31 16:10:57,724 - mmdet3d - INFO - ===> car - IoU = 34.83
+2025-10-31 16:10:57,724 - mmdet3d - INFO - ===> construction_vehicle - IoU = 38.94
+2025-10-31 16:10:57,724 - mmdet3d - INFO - ===> motorcycle - IoU = 22.92
+2025-10-31 16:10:57,724 - mmdet3d - INFO - ===> pedestrian - IoU = 16.84
+2025-10-31 16:10:57,724 - mmdet3d - INFO - ===> traffic_cone - IoU = 31.45
+2025-10-31 16:10:57,724 - mmdet3d - INFO - ===> trailer - IoU = 37.49
+2025-10-31 16:10:57,724 - mmdet3d - INFO - ===> truck - IoU = 39.71
+2025-10-31 16:10:57,724 - mmdet3d - INFO - ===> driveable_surface - IoU = 63.04
+2025-10-31 16:10:57,724 - mmdet3d - INFO - ===> other_flat - IoU = 52.16
+2025-10-31 16:10:57,724 - mmdet3d - INFO - ===> sidewalk - IoU = 50.59
+2025-10-31 16:10:57,724 - mmdet3d - INFO - ===> terrain - IoU = 49.21
+2025-10-31 16:10:57,724 - mmdet3d - INFO - ===> manmade - IoU = 42.76
+2025-10-31 16:10:57,724 - mmdet3d - INFO - ===> vegetation - IoU = 40.21
+2025-10-31 16:10:57,724 - mmdet3d - INFO - ===> empty - IoU = 96.66
+2025-10-31 16:10:57,724 - mmdet3d - INFO - ===> mIoU of 4519 samples: 39.66
+2025-10-31 16:10:57,725 - mmdet3d - INFO - ===> empty - IoU = 96.66
+2025-10-31 16:10:57,725 - mmdet3d - INFO - ===> non-empty - IoU = 50.4
+2025-10-31 16:10:57,725 - mmdet3d - INFO - ===> per class IoU of 4519 samples:
+2025-10-31 16:10:57,725 - mmdet3d - INFO - ===> others - IoU = 37.48
+2025-10-31 16:10:57,725 - mmdet3d - INFO - ===> barrier - IoU = 44.05
+2025-10-31 16:10:57,725 - mmdet3d - INFO - ===> bicycle - IoU = 20.85
+2025-10-31 16:10:57,725 - mmdet3d - INFO - ===> bus - IoU = 24.71
+2025-10-31 16:10:57,725 - mmdet3d - INFO - ===> car - IoU = 28.23
+2025-10-31 16:10:57,725 - mmdet3d - INFO - ===> construction_vehicle - IoU = 32.97
+2025-10-31 16:10:57,725 - mmdet3d - INFO - ===> motorcycle - IoU = 18.22
+2025-10-31 16:10:57,725 - mmdet3d - INFO - ===> pedestrian - IoU = 10.87
+2025-10-31 16:10:57,725 - mmdet3d - INFO - ===> traffic_cone - IoU = 24.96
+2025-10-31 16:10:57,726 - mmdet3d - INFO - ===> trailer - IoU = 31.16
+2025-10-31 16:10:57,726 - mmdet3d - INFO - ===> truck - IoU = 32.23
+2025-10-31 16:10:57,726 - mmdet3d - INFO - ===> driveable_surface - IoU = 59.45
+2025-10-31 16:10:57,726 - mmdet3d - INFO - ===> other_flat - IoU = 47.94
+2025-10-31 16:10:57,726 - mmdet3d - INFO - ===> sidewalk - IoU = 46.3
+2025-10-31 16:10:57,726 - mmdet3d - INFO - ===> terrain - IoU = 44.65
+2025-10-31 16:10:57,726 - mmdet3d - INFO - ===> manmade - IoU = 38.7
+2025-10-31 16:10:57,726 - mmdet3d - INFO - ===> vegetation - IoU = 36.84
+2025-10-31 16:10:57,726 - mmdet3d - INFO - ===> empty - IoU = 96.44
+2025-10-31 16:10:57,726 - mmdet3d - INFO - ===> mIoU of 4519 samples: 34.09
+2025-10-31 16:10:57,726 - mmdet3d - INFO - ===> empty - IoU = 96.44
+2025-10-31 16:10:57,726 - mmdet3d - INFO - ===> non-empty - IoU = 46.67
+2025-10-31 16:10:57,727 - mmdet3d - INFO - Evaluation Results:
+2025-10-31 16:10:57,727 - mmdet3d - INFO - +---------+-------+-------+
+| Time    | mIoU  | IoU   |
++---------+-------+-------+
+| 1.0s    | 48.56 | 55.13 |
+| 2.0s    | 39.66 | 50.40 |
+| 3.0s    | 34.09 | 46.67 |
+| Average | 40.77 | 50.73 |
++---------+-------+-------+
+{'semantics_miou_time_0s': 81.22, 'binary_iou_time_0s': 68.3, 'semantics_miou_time_1.0s': 48.56, 'binary_iou_time_1.0s': 55.13, 'semantics_miou_time_2.0s': 39.66, 'binary_iou_time_2.0s': 50.4, 'semantics_miou_time_3.0s': 34.09, 'binary_iou_time_3.0s': 46.67}
